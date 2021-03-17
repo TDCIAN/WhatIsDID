@@ -2,7 +2,7 @@
 What is DID?
 
 ### DID(Decentralized Identity) 
-- [자료출처 - Smartcity Challenge]:(https://medium.com/bucheon-smartcity/did%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-c408ddd7d81b)
+<br>[자료출처 - Smartcity Challenge]:(https://medium.com/bucheon-smartcity/did%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-c408ddd7d81b)
 
 #### DID의 등장 배경
 - 데이터경제(Data Economy) 시대의 출현으로 데이터의 중요성이 높아졌다.
