@@ -23,8 +23,7 @@ What is DID?
 - 현재 중앙화된 ID관리 방식에서 발견되고 있는 많은 개인정보 주권 문제 및 보안 문제들이 DID로 해결될 수 있다.
 - 소수의 서비스 제공자가 운영하는 중앙 시스템에 방대한 양의 개인정보가 집중되는 것은 데이터경제 시대에 매우 위험하고, 보안 관리 또한 어렵다.
 
-#### DID 국내 동향
-- [자료출처 - Smartcity Challenge]:(https://medium.com/bucheon-smartcity/did-%EA%B5%AD%EB%82%B4-%EB%8F%99%ED%96%A5-b87fdb1e668b)
+#### DID 국내 동향[자료출처 - Smartcity Challenge]:(https://medium.com/bucheon-smartcity/did-%EA%B5%AD%EB%82%B4-%EB%8F%99%ED%96%A5-b87fdb1e668b)
 - 현재 국내 DID 시장은 은행/보험/증권 영역의 금융기관과 통신사 및 관공서 등으로 빠르게 확산되고 있다.
 - 대기업이 독자적으로 DID 기술 및 서비스를 개발하기 보다는, 여러 기업이 네트워크를 공동으로 소유해 비용과 개발을 분담하는 컨소시엄 형태로 시장을 확장하고 있따.
 - DID 시장은 '데이터3법'의 한 축인 '신용정보법 개정안'과 긴밀한 관계가 있다.
