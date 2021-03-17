@@ -1,2 +1,0 @@
-# WhatIsDID
-What is DID?
